@@ -16,4 +16,8 @@ First in order to create the training data for the celebrities' voices, I gather
 4. Launch the GUI using the command, "python gui.pyw"
 
 ## Background
+<<<<<<< HEAD
 This project was originally an idea of mine that I had before I ever wanted to do computer science in college. I knew nothing about the field, but I wanted to make my idea a reality. So I started learning python and tried to make it myself. Since then I have learned a lot through college and personal experience. The first version of this program was written at an obviously novice level, but since then I have rewritten it and uploaded it github. This project is special to me, because trying to turn this idea into reality made me want to go into the field and create something of my own. I hope you enjoy!
+=======
+This project was originally an idea of mine that I had before I ever wanted to do computer science in college. I knew nothing about the field, but I wanted to make my idea a reality. So I started learning python and tried to make it myself. Since then I have learned a lot through college and personal experience. The first version of this program was written at an obviously novice level, but since then I have rewritten it and uploaded it github. This project is special to me, because trying to turn this idea into reality made me want to go into the field and create something of my own. I hope you enjoy!
+>>>>>>> 13e4b930f2544bbb4101612a52accf29e7164a31
